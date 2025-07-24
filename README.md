@@ -29,13 +29,12 @@ Bu proje bir HTML5 web uygulamasıdır. Kullanıcılar kartlarını tıklayarak 
 
 ## 🗂️ Ortam Değişkenleri (`.env.local`)
 
-Proje kök dizininde `.env.local` dosyası oluştur ve aşağıdaki şekilde ayarla:
+Proje kök dizininde bir `.env.local` dosyası oluşturun ve MongoDB bağlantı cümlenizi ekleyin:
 
-```env
 MONGODB_URI=<mongodb_connection_string>
 
 ---
-R
+
 ### 1️⃣ Repoyu Klonla
 
 ```bash
