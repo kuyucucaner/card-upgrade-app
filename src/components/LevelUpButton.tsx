@@ -9,7 +9,7 @@ export default function LevelUpButton({
     <button
       onClick={onLevelUp}
       disabled={disabled}
-      className="mt-4 p-2 bg-blue-500 text-white rounded"
+      className="mt-4 p-2 bg-blue-500 text-white rounded hover:cursor-pointer"
     >
       Level Up
     </button>
