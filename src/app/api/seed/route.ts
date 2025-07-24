@@ -1,4 +1,4 @@
-// api/seed/route
+
 import { dbConnect } from "@/lib/dbConnect";
 import Card from "@/models/Card";
 import User from "@/models/User";

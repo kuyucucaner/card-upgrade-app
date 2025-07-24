@@ -1,4 +1,4 @@
-// api/energy/route
+
 import { dbConnect } from "@/lib/dbConnect";
 import User from "@/models/User";
 import { NextRequest, NextResponse } from "next/server";

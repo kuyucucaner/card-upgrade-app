@@ -36,13 +36,12 @@ useEffect(() => {
     setEnergy(data.energy);
   };
 
-  // İlk çağrı
+
   fetchEnergy();
 
-  // Her 60 saniyede bir tekrar çağır
+
   const interval = setInterval(fetchEnergy, 60000);
 
-  // Sayfa kapandığında temizle
   return () => clearInterval(interval);
 }, [userId]);
 

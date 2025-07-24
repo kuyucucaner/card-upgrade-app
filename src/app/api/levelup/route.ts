@@ -1,4 +1,4 @@
-// api/levelup/route
+
 import { dbConnect } from "@/lib/dbConnect";
 import Card from "@/models/Card";
 import { NextResponse } from "next/server";

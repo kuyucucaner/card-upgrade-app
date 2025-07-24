@@ -1,4 +1,3 @@
-// models/Card.ts
 
 import mongoose, { Schema } from "mongoose";
 

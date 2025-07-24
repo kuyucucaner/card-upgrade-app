@@ -1,4 +1,4 @@
-// lib/dbConnect.ts
+
 import mongoose from "mongoose";
 
 interface MongooseCache {
