@@ -35,8 +35,7 @@ Proje kök dizininde `.env.local` dosyası oluştur ve aşağıdaki şekilde aya
 MONGODB_URI=<mongodb_connection_string>
 
 ---
-## 🚀 Başlangıç
-
+R
 ### 1️⃣ Repoyu Klonla
 
 ```bash
