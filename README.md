@@ -21,7 +21,7 @@ This project is an HTML5 web application where users can upgrade their cards by 
 - **Next.js 13+ (App Router)**
 - **TypeScript**
 - **MongoDB & Mongoose**
-- **Tailwind CSS**<
+- **Tailwind CSS**
 - **Axios**
 
 ---
